@@ -14,7 +14,7 @@
 
 /* width */
 ::-webkit-scrollbar {
-    width: em;
+    width: 4em;
 }
 
 /* Track */
